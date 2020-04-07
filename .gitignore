@@ -1,0 +1,9 @@
+#ignore ide files
+/.idea
+/.vscode
+
+#dont want the dependencies either - use the package manager to get them
+/vendor
+/.env
+/coverage.out
+.DS_Store
